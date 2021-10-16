@@ -1,10 +1,10 @@
+import SayHi from './components/SayHi';
+
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          Work in progress...
-        </p>
+        <SayHi />
       </header>
     </div>
   );
